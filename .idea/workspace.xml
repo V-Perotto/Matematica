@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="779331ad-921f-4136-8361-b73f5e20c332" name="Default Changelist" comment="" />
+    <list default="true" id="779331ad-921f-4136-8361-b73f5e20c332" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1apQXBo5ywTZSQwbwgDM4SWK7XF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,10 +28,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../funcaologaritmica" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.prova1">
+  <component name="RunManager" selected="Python.funcao_trigonometrica">
     <configuration name="funcao_1grau" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Matematica" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcao_exponencial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funcao_trigonometrica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Matematica" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcao_exponencial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/funcao_trigonometrica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.funcao_trigonometrica" />
         <item itemvalue="Python.prova1" />
         <item itemvalue="Python.rmc5" />
         <item itemvalue="Python.funcao_1grau" />
         <item itemvalue="Python.funcao_2grau" />
-        <item itemvalue="Python.funcao_exponencial" />
       </list>
     </recent_temporary>
   </component>
@@ -159,30 +166,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587430125363" />
-    <state width="936" height="313" key="GridCell.Tab.0.bottom" timestamp="1587609502195">
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom" timestamp="1588036823441">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="936" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587609502195" />
-    <state width="936" height="313" key="GridCell.Tab.0.center" timestamp="1587609502195">
+    <state width="1899" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588036823441" />
+    <state width="1899" height="313" key="GridCell.Tab.0.center" timestamp="1588036823441">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="936" height="313" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587609502195" />
-    <state width="936" height="313" key="GridCell.Tab.0.left" timestamp="1587609502195">
+    <state width="1899" height="313" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588036823441" />
+    <state width="1899" height="313" key="GridCell.Tab.0.left" timestamp="1588036823441">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="936" height="313" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587609502195" />
-    <state width="936" height="313" key="GridCell.Tab.0.right" timestamp="1587609502195">
+    <state width="1899" height="313" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588036823441" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right" timestamp="1588036823441">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="936" height="313" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587609502195" />
+    <state width="1899" height="313" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588036823441" />
     <state x="461" y="167" key="SettingsEditor" timestamp="1587431225915">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587431225915" />
-    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1587596815414">
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1588032556785">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587596815414" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588032556785" />
     <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1587601489575">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
